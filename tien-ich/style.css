@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+.break{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.aluient{
+    display: flex;
+    width: 95%;
+    align-items: center;
+    justify-content: center;
+}
+.box-3{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+}
+.box-4{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
